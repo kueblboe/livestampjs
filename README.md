@@ -1,3 +1,11 @@
+Changes from original
+---------------------
+
+Show the difference to current time in minutes instead of timeago phrase. E.g. '5' instead of '5 minutes ago'. Also add a classes to the element for styling.
+ * 'future' if timestamp is in the future
+ * 'past' if timestamp is in the past
+ * 'close' if timestamp is less than ten minutes in the future
+
 [Livestamp.js](http://mattbradley.github.com/livestampjs)
 =====================================================
 

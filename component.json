@@ -1,7 +1,7 @@
 {
   "name": "livestampjs",
-  "repo": "mattbradley/livestampjs",
-  "description": "A simple, unobtrusive jQuery plugin that provides auto-updating timeago text",
+  "repo": "kueblboe/livestampjs",
+  "description": "A simple, unobtrusive jQuery plugin that provides auto-updating minutes",
   "version": "0.0.1",
   "keywords": [],
   "dependencies": {},
@@ -9,7 +9,6 @@
   "license": "MIT",
   "main": "livestamp.js",
   "scripts": [
-    "livestamp.js",
-    "livestamp.min.js
+    "livestamp.js"
   ]
 }
